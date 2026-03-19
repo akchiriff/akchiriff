@@ -33,7 +33,7 @@ Mi flujo de trabajo diario tiene exactamente **dos modos**:
 
 ---
 
-## 🚀 Proyectos que me tienen orgulloso (y confundido)
+## 🚀 Proyectos que me tienen orgullosa (y confundida)
 
 ### 🍺 [beer-poker](https://github.com/akchiriff/beer-poker)
 > Planning poker, pero con cervezas. Porque si el equipo tiene que estimar, que al menos haya incentivos.
