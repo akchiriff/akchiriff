@@ -26,7 +26,6 @@ Mi flujo de trabajo diario tiene exactamente **dos modos**:
 ## ⚡ Stack & Obsesiones
 
 ![Chocolate](https://img.shields.io/badge/Chocolate-F7DF1E?style=for-the-badge&logo=chocolate&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI_Tools-ff6b6b?style=for-the-badge&logo=openai&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Coffee](https://img.shields.io/badge/Coffee-6F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
